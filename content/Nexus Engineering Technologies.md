@@ -5,7 +5,7 @@ tags:
   -
 ---
 
-* [[Technology]]
+* [[Technologies]]
 * [[Governments]]
 * [[Territory]]
 * [[The Prime Manufactorius|CEO]] 
