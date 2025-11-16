@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The Cordonia wiki!
+draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the homepage of the official Cordonia wiki 
+
+## **Factions
+* [[Nexus Engineering Technologies]]
+* [[Cordonia]]
+
+## **Galaxy**
+Coming soon<sup>TM</sup>
+
