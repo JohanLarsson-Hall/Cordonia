@@ -5,7 +5,7 @@ draft: false
 
 This is the homepage of the official Cordonia wiki 
 
-## **Factions
+## **Factions**
 * [[Nexus Engineering Technologies]]
 * [[Cordonia]]
 
