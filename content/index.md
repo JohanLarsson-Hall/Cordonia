@@ -12,5 +12,4 @@ This is the homepage of the official Cordonia wiki
 ## **Galaxy**
 Coming soon<sup>TM</sup>
 
-Update test
 

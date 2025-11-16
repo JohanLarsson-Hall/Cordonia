@@ -6,6 +6,6 @@ tags:
 ---
 
 * [[Technology]]
-* [[Government.canvas|Government]]
+* [[Governments]]
 * [[Territory]]
 * [[The Prime Manufactorius|CEO]] 
