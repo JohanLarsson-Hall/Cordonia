@@ -1,4 +1,9 @@
-A list of Technologies in 
+---
+title: Technologies
+draft: false
+---
+
+A list of all the technologies in
 
 
 # N.E.T.

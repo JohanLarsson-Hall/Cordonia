@@ -15,3 +15,8 @@ Coming soon<sup>TM</sup>
 
 ## Technology
 All the tech in the galaxy right [[Technologies|here!]]
+
+
+*last updated* 16/NOV/25 20:53
+(this is to check the functionality of the auto publisher)
+
