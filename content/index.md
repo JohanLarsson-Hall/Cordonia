@@ -8,7 +8,7 @@ This is the homepage of the official Cordonia wiki
 ## **Factions**
 * [[Nexus Engineering Technologies]]
 * [[Cordonia]]
-
+* [[The Riftborn]] 
 ## **Galaxy**
 Coming soon<sup>TM</sup>
 
