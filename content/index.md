@@ -13,3 +13,5 @@ This is the homepage of the official Cordonia wiki
 Coming soon<sup>TM</sup>
 
 
+## Technology
+All the tech in the galaxy right [[Technologies|here!]]

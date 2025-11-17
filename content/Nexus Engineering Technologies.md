@@ -1,5 +1,5 @@
 ---
-title: Nexus Engineering Technologies or N.E.T.
+title: Nexus Engineering Technologies/N.E.T.
 draft: false
 tags:
   -
