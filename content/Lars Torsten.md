@@ -1,0 +1,1 @@
+Planetary Governor of [[Første hjem]]

@@ -1,0 +1,1 @@
+The capitol world of [[Nexus Engineering Technologies|N.E.T.]]  and birth place of [[The Prime Manufactorius|Lars Ingvald]] It is the most developed world in [[Nexus Engineering Technologies|N.E.T.]] [[Territory]]. It's capitol sector [[Lars sitt hjem]]
