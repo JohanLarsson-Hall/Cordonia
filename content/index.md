@@ -28,5 +28,4 @@ All the tech in the galaxy right [[Technologies|here!]]
 
 ---
 
-*last updated* 18/NOV/25 23:50
-(this is to check the functionality of the auto publisher)
+*last updated* 19/NOV/25 23:46

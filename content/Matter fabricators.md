@@ -1,0 +1,1 @@
+Matter fabricators are the primary means of manufacturing used by [[Nexus Engineering Technologies|N.E.T.]] they come in different sises suitable for different applications ranging fro household to industrial to orbital [[Orbital forge|orbital forges]] 
