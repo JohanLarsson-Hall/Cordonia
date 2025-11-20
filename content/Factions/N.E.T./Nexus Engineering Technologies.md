@@ -1,11 +1,11 @@
 ---
-title: "![[carbon-for-ibm-product.svg]]Nexus Engineering Technologies/N.E.T."
+title: Nexus Engineering Technologies/N.E.T.
 draft: false
 tags:
   - 
 icon:
 ---
-
+![[carbon-for-ibm-product.svg|300]]
 
 ---
 * [[Technologies]]
