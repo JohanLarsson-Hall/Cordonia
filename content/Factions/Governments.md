@@ -94,6 +94,24 @@ p8-6[p8s6]
 p8-7[p8s7]
 p8-8[p8s8]
 
+p9-1[p9s1]
+p9-2[p9s2]
+p9-3[p9s3]
+p9-4[p9s4]
+p9-5[p9s5]
+p9-6[p9s6]
+p9-7[p9s7]
+p9-8[p9s8]
+
+p8-1[p8s1]
+p8-2[p8s2]
+p8-3[p8s3]
+p8-4[p8s4]
+p8-5[p8s5]
+p8-6[p8s6]
+p8-7[p8s7]
+p8-8[p8s8]
+
 class M,V,1,h1,h2,h3,h4,p1,p2,p3,p4,p5,p6,p7,p8,p1-1,p1-2,p1-3,p1-4,p1-5,p1-6,p1-7,p1-8,p2-1,p2-2,p2-3,p2-4,p2-5,p2-6,p2-7,p2-8,p3-1,p3-2,p3-3,p3-4,p3-5,p3-6,p3-7,p3-8,p4-1,p4-2,p4-3,p4-4,p4-5,p4-6,p4-7,p4-8,p5-1,p5-2,p5-3,p5-4,p5-5,p5-6,p5-7,p5-8,p6-1,p6-2,p6-3,p6-4,p6-5,p6-6,p6-7,p6-8,p7-1,p7-2,p7-3,p7-4,p7-5,p7-6,p7-7,p7-8,p8-1,p8-2,p8-3,p8-4,p8-5,p8-6,p8-7,p8-8, internal-link;
 
 M ---> 1
@@ -235,15 +253,7 @@ p8 ---> p8-8
 [[hi-exc4]]
 
 ---
-## Planetary Governors
-[[Lars Torsten]]
-[[pgov2]]
-[[pgov3]]
-[[pgov4]]
-[[pgov5]]
-[[pgov6]]
-[[pgov7]]
-[[pgov8]]
+## [[Planetary Governors]] 
 
 ---
 ## Sector Governors
@@ -347,4 +357,4 @@ p8 ---> p8-8
 ---
 
  
-
+acceleton dragons
